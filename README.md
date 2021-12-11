@@ -6,3 +6,6 @@ Pour le fonctionnement de ce formidable robot qui suit l'humain : Lorsque vous v
 
 Le capteur infrarouge fonctionne sur la lumière infrarouge qui peut également détecter l'objet à proximité. Il y a donc deux capteurs IR, l'un se trouve sur le côté gauche du capteur à ultrasons et l'autre sur le côté droit du capteur à ultrasons. Quand quelque chose s'approche du capteur gauche, Arduino obtient l'information qu'il y a quelque chose à proximité des capteurs gauches et selon le code, le robot se tournera vers la gauche. Et le même processus pour le bon capteur. C'est ainsi que fonctionne le robot qui suit l'homme.
 
+C'est le schéma du circuit électrique. Veuillez trouver le video d'un petit demo dans les fichiers du projet
+![Shema_RobotSuivi](https://user-images.githubusercontent.com/46745468/145672081-6ccbbc6d-c705-4d28-8d74-025cace1555f.png)
+

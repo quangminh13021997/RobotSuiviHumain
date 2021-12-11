@@ -1,4 +1,4 @@
-# RobotSuiviPersonne
+# RobotSuiviHumain
 Ce robot Arduino ayant un capteur qui peut détecter n'importe quel objet à proximité et peut suivre cet objet. si vous passez devant le robot, il commencera à vous suivre. Ce robot se compose d'un capteur à ultrasons et d'un capteur infrarouge qui aident à suivre l'objet. Ceci est similaire à l'obstacle évitant le robot seul mais opposé dans le travail. Le robot qui suit l'homme est le meilleur dans le projet de nos jours.
 
 
